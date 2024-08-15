@@ -1,0 +1,19 @@
+kubota post4,post4@mc.jp,備考欄へテスト入力,01丸の内店
+kubota５,test5@mc.jp,行追加テスト,03広尾店
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+くぼた　のぞみ,test@yahoo.co.jp,aaaa,02銀座店
+,,,
+くぼた　のぞみ,post_test0810@test.jp,8/10テスト送信,03広尾店
+kubota3_post0810,test0810@yahoo.co.jp,送信テスト0810,01丸の内店
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+未入力,未入力,,
